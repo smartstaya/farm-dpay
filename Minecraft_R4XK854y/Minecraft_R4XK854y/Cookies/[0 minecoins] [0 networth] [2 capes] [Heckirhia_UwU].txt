@@ -1,0 +1,19 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– ID: e6d748d593e44466bbfb01d90944053f
+– Username: Heckirhia_UwU
+– Xbox: Plutonium8835
+– Skins: 1
+– Capes: 2 (Pan, Common)
+– Purchases: 2 (minecraft_bedrock, minecraft)
+– Minecoins: 0
+– Hypixel skyblock networth: 0
+– Cookies: russia34.com
+
+.login.live.com	TRUE	/	TRUE	1818956090	MSPCID	dbdbbaf720135782
+.login.live.com	TRUE	/	TRUE	1818956090	MSPPre	artomtroshin%40outlook.com%7cdbdbbaf720135782%7c%7c
+.live.com	TRUE	/	TRUE	1818956090	PPLState	1
+login.live.com	FALSE	/	TRUE	1818956090	__Host-MSAAUTHP	11-M.C536_BL2.0.U.MsaArtifacts.CqdhLdXjxQQ8mNAquWp*sf!6PGwg4mImNt2Vb8Fce4Qn*3IFPmqjJvHBNOJZmAh5UDplDTcl76KM39!IHTOyiWxnp5oy0k3aDrPixNjkba!RrnultSy0qofWDdh8P7iwbGPKn1enwmO6NTYOlhE7HGRf55prWC5IS3nWen8NyU2TvhFgHtCUSp3pvPQbyARVIO0MjNpvC2luLNzgIgFDyOzl9qldTeWMwos5o5k9Hp*2zi!Vy7zFHNAEPG3rsUUJE0g3ZIV4G1UQZjDhSyG5qZPed!iBp2osYLamWmhz8p7tGZXR99D4mLT5V2FiLMpb8*dVZpQoyAU8vcbI9D9RpIXh*d3WKBaIHgg24i9P2ftF
+login.microsoftonline.com	FALSE	/	TRUE	1790705499	fpc	Ami7R9BAuDBOpXn_nRhAE08
+.microsoft.com	TRUE	/	TRUE	1815510432	MC1	GUID=143addfaf15f496ebf470124ec703e69&HASH=143a&LV=202607&V=4&LU=1783974432779
