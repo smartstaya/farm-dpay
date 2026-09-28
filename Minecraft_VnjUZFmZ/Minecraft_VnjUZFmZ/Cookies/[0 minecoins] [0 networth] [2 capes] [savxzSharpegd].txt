@@ -1,0 +1,28 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– ID: a5d5c520e43c4ce6a87ad931ff2dfa58
+– Username: savxzSharpegd
+– Xbox: ExpandGaming229
+– Skins: 1
+– Capes: 2 (Pan, Common)
+– Purchases: 2 (minecraft_bedrock, minecraft)
+– Minecoins: 0
+– Hypixel skyblock networth: 0
+– Cookies: Cloud WebSite russia34.com
+
+.microsoft.com	TRUE	/	FALSE	1789213507	_clck	a5vrwx%5E2%5Efz9%5E0%5E1920
+.microsoft.com	TRUE	/	FALSE	1791373518	_uetvid	e0b4f060111c11f09fe5ad6f6278d30b
+.login.live.com	TRUE	/	TRUE	1814350448	MSCC	182.69.179.189-IN
+.login.live.com	TRUE	/	TRUE	1819451997	JSHP	3$jainprasuk25%40outlook.com$Alexis$Mercado$QhU4C4lr$2$0$0$12335330235406882171$0
+.login.live.com	TRUE	/	TRUE	1819451997	MSPCID	e6ba30f496637289
+.login.live.com	TRUE	/	TRUE	1819451997	MSPPre	jainprasuk25%40outlook.com%7ce6ba30f496637289%7c%7c
+.live.com	TRUE	/	TRUE	1803064797	ANON	A=5ABED43118EA135A8F7BDB25FFFFFFFF&E=20ee&W=1
+.live.com	TRUE	/	TRUE	1819451997	MSPAuth	Disabled
+.live.com	TRUE	/	TRUE	1819451997	MSPProf	Disabled
+.live.com	TRUE	/	TRUE	1794424797	NAP	V=1.9&E=2094&C=0DP6xNOl4d5_rfi-PzOFeW_JXokXetHiik8scb44FWL-Y2CdaOqpQg&W=1
+.live.com	TRUE	/	TRUE	1819451997	PPLState	1
+.live.com	TRUE	/	TRUE	1819451997	WLSSC	EgAzAgMAAAAMgAAAyAAB68Awto5nF+/hgCx49+XxFUH+vfn/TmU8hEvgvBclp86X0EcDobn1I7qtOOYXuh7L7CmC29h/Q363ht4FEokxjE6JkCGaGpNSy3P/dMIBOUjRi3Ut3RSsEBRUjMVr46Fw6A3Rmm8T79ewPxbaOgE1oBHBbBEGNdh4bvYs1gi8cNOo0L96R5GcTgXUweSrdqfxxeuQ26/gLDztvHMDxP7Lle9Kbyc1FcNmf5F4OZdmyVnACUz4KSvr+su0N/tIiVjj0Q9FSawbuWcPnNmH/TYMY9BSqdP+KAqTeyvmg12nTYcrtLwmcAIvtt3gKSAJZq9Cl2VQ88uSwF+bhSWU8nJ6HiIBgQAiAQFAAwCsIwFwS3lwaoD+DmoQJwAAChCgAAAZAGphaW5wcmFzdWsyNUBvdXRsb29rLmNvbQBgAAAlamFpbnByYXN1azI1JW91dGxvb2suY29tQHBhc3Nwb3J0LmNvbQAAAD9ISwAAAAAAAAQJAgAAf9hVQAAGQwAGQWxleGlzAAdNZXJjYWRvAAAAAAAAAAAAAAAAAAAAAAAAlmNyiea6MPQAAEt5cGpJIOdqAAAAAAAAAAAAAAAADwAxODIuNjkuMTgzLjEzNQAFAwAAABJAGAAd3uLtBRABAAAAAAAAAAAA6OLvZgAAfuUvq3sVkGQRwBgAHVvtjgzAGAAKw5rxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAA=
+login.live.com	FALSE	/	TRUE	1819451997	__Host-MSAAUTHP	11-M.C525_SN1.0.U.MsaArtifacts.CmO6yvt5NRbbrRSsUE3ROt5GkDDWcbHFbwTZYgM*8OfnEV7kOy*BP82vJuIsqEAeiGhzeEUqPoh3gk5EWQG7yHxf3Hb!lKjpk8f!pZ1X5ynj7wETEpphofKAH2Nx1AH7SetVGoAOymy*7NCAbsG77cEYB3r3ZtdoeAUItMvw9X!R!cb8Fl37VPRTQ1VvblQskavx2YpWeQXhnF*TeRkUB3bVuhI4jmwjpdSxQSk85KtzUtGFmnzQITm*33HxuwDEUE571c8cbBkt5Dx1Wtwy2Iz5giH0wJegeFSP*KKQzll69!eyVnXh2lXWId15YVqUonWQAKv1hRqxy!258q3fHaXiP1qU1iOuDId*6pS*hTm3DCdSmxJ!FcRdjjdckStb6w$$
+login.microsoftonline.com	FALSE	/	TRUE	1791475683	fpc	AuXb6L-hRP5AgIU5RXztemo
+www.microsoft.com	FALSE	/	TRUE	1789213507	MicrosoftApplicationsTelemetryDeviceId	964ed281-f321-45d2-b2bc-06bd63b415ed
