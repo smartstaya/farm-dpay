@@ -1,0 +1,57 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Name: Fabio PEREIRA
+– Email: faabiopyurip@outlook.com
+– Inbox: 652 (589 unread)
+– Country: BR
+– Cookies: @logslead
+
+login.live.com	FALSE	/	TRUE	1797875432	__Host-MSAAUTHP	11-M.C548_BAY.0.U.MsaArtifacts.CqH6hhcrwLTLOy7KRxfIL81uFzTEI7xMR9HvaKBbgq4JlmrRysw!6rB1nkDRD8VSlp5JjbEOQaX1vfxt5UfTuo2NSPltTug0PX*sdQ2lp88hhFMINBcyO56Lw5RcKqJLwLMXdqJX8fI*0sTXo!LMYu*3rUq8ocesD4CP!pOGfcqVVyj9qWc46E!9rh7rfgjgdgiIU7pjboZtSPF4xQPBo!5bH5KJ6vUKPO*Zx3nag3zaIhpWi!8819n0O8hK2v0VyDKs8HID4!pXU9DpmCNS3WMRepQPeEoB*Dn4guirrl1e78yp7g9a7XqLIOv6GTYXWQ$$
+.login.microsoftonline.com	FALSE	/	TRUE	1801157619	brcap	0
+login.microsoftonline.com	FALSE	/	TRUE	1791443147	buid	1.AXgAMe_N-B6jSkuT5F9XHpElWiC_mZE_oQdBhdwCEUeH70gAAAB4AA.AQABGgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzAwAAAAAANERB5bQJFqSsCA7Iqnw5s0obfHlF5-nf5xziAYG41QqDUU6_ofeW_ESBbZdDEf1PApXxGNy9wcf6i3VJaEl5Tf1EGplAu8ERo_Lyryf2VtwgAA
+login.microsoftonline.com	FALSE	/	TRUE	1791443147	fpc	AlDNRgfpr1hMtUE6T-FRuRTZRKGgAQAAAJcmAOIOAAAA
+www.microsoft.com	FALSE	/	TRUE	1791443147	CAS_PROGRAM	golf
+www.microsoft.com	FALSE	/	TRUE	1802045150	MicrosoftApplicationsTelemetryDeviceId	0faa06ec-df54-4cc2-8583-8dfb78ef0b1e
+www.microsoft.com	FALSE	/	TRUE	1791443147	ai_session	dyCvN00aKyLKpxcKkCn6i+|1786493149765|1786493149765
+www.microsoft.com	FALSE	/content/dam/microsoft/final/en-us/microsoft-brand/icons	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v2.0.0	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/reimagine-resources/resources/js/v2.0.0/components/inline-price	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/etc.clientlibs/onecloud/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/cascade.component.authoring/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/foundation/page	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/foundation/themes	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-reimagineui/web-components/inline-price	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-utils	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/core/wcm/components/tabs/v1/tabs/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/microsoft/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/microsoft/components/content/inline-video/v2/cascade-media-player/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/clientlibs/clientlib-mwf-new/resources/fonts	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/clientlibs/clientlib-reimagine/resources/fonts/segoe-sans/west-european	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/clientlibs/reimagine	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/accordion/v2/accordion/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/carousel/v1/carousel/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/components/content/reimagine/atomic/tabs/v2/tabs/clientlib	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/components/content/reimagine/blade/cross-sell/v1/cross-sell/clientlibs	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/golf/etc.clientlibs/onecloud/components/content/reimagine/blade/faqs/v2/faqs/clientlib	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/msonecloudapi/assets	FALSE	1791443147	bStore	Y
+www.microsoft.com	FALSE	/videoplayer	FALSE	1791443147	bStore	Y
+.live.com	FALSE	/	TRUE	1794065951	MUID	4d33335dad914ebbacbefb546a344fc4
+.live.com	FALSE	/	TRUE	1796654156	mkt	pt-BR
+.live.com	FALSE	/	TRUE	1797524190	ANON	A=0799F145F3E8EDC6814C7AEEFFFFFFFF&E=20c2&W=1
+.live.com	FALSE	/	TRUE	1797524190	MSPAuth	Disabled
+.live.com	FALSE	/	TRUE	1797524190	MSPProf	Disabled
+.live.com	FALSE	/	TRUE	1790637390	NAP	V=1.9&E=2068&C=OKiNyfY2BU8yan-e0qLRMBqbDJbWHK_UEOoGZ0DuKmJhltlATupynA&W=1
+.live.com	FALSE	/	TRUE	1797524190	WLSSC	EgAxAgMAAAAMgAAAxQABcT5lHnniM62bN+m0C/Fex/bJgvUNmivJCJAz18wNmChL+z98FD5TTwg58I5lb4J4RTUqkOmH5E21hXT7JyBMCsGqeW+y76U/L1qlZkBNEFNuJlsYZuQ5uCKCzq+BTaYZ+mcOFehL2KswV8MKW0LygEjKj3w5TbRceIr/86jCTHbMWP9OVRz1ptB99Wz67b8qtf0/nQbCm7KIMFFxkOCVXxlv2a1lba4USEuobjlwNPKmqmg/K5oMOswuBhB060weubdb1ZCbqboS2FRqyb75LNcwmYWbhQAWB2A7xvSpMfrMkgfG18iJiLuSylRWHG0GN1e9OZTfetc39UnbtTLwUCABgQAgAQFAAwCze/EuLr42aiq+NmoQJwAAChCggAgZAGZhYWJpb3B5dXJpcEBvdXRsb29rLmNvbQBfAAAlZmFhYmlvcHl1cmlwJW91dGxvb2suY29tQHBhc3Nwb3J0LmNvbQAAAAtCUgAAAAAAAAQWAgAAf3xVQAAGQwAFRmFiaW8AB1BFUkVJUkEAAAAAAAAAAAAAAAAAAAAAAAB3KyfEYikcMgAALr42aiplrWoAAAAAAAAAAAAAAAAOADE4OS4zOC4xOTQuMjYABQEAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAACnu4aw04kWoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA
+.live.com	FALSE	/	TRUE	1797875432	PPLState	1
+outlook.live.com	FALSE	/	TRUE	1796654103	ClientId	D29D7EEB9A5D4BF28FD5E0831222EC71
+outlook.live.com	FALSE	/mail	FALSE	1797524207	MicrosoftApplicationsTelemetryDeviceId	4e68d0ca-12ae-4bbf-96d9-1459518528af
+outlook.live.com	FALSE	/mail	FALSE	1797524207	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-06-20T16:16:46.722Z
+.microsoft.com	FALSE	/	TRUE	1796654104	MC1	GUID=01374a7739974ce5b5287d31a5fec4c1&HASH=0137&LV=202606&V=4&LU=1781102419803
+.login.live.com	FALSE	/	TRUE	1797524128	MSCC	189.38.194.26-BR
+.login.live.com	FALSE	/	TRUE	1797524190	MSPPre	faabiopyurip%40outlook.com%7c62291c32772b27c4%7c%7c
+.login.live.com	FALSE	/	TRUE	1797524190	SDIDC	Cs5R5jyO08JCv72LllxoFQqWSiyhoqPwMArcWRVj6Mhf3UyeKZd*k16LavNHxf*2o9WSHideR76WlKDGDOS*8TR9NWCJS10K4UypcbMEFXo85jx7tOprXC7JaqKLiaWmHg$$
+.login.live.com	FALSE	/	TRUE	1797875432	JSHP	3$faabiopyurip%40outlook.com$Fabio$PEREIRA$$2$0$0$12457499906967724596$0
+.login.live.com	FALSE	/	TRUE	1797875432	MSPCID	62291c32772b27c4
