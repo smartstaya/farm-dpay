@@ -1,0 +1,46 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Name: Welberty Soares
+– Email: soareswelberty@outlook.com
+– Inbox: 6819 (1 unread)
+– Country: US
+– Cookies: @logslead
+
+www.microsoft.com	FALSE	/	TRUE	1791443147	MSFPC	GUID=69417336c2554808a508042b48faf211&HASH=6941&LV=202602&V=4&LU=1770855918090
+.live.com	TRUE	/	TRUE	1791443147	mkt	pt-BR
+.live.com	TRUE	/	TRUE	1791443147	MUID	e04f2956e65a411bb4e2f053406a5627
+.live.com	TRUE	/	TRUE	1793554206	ANON	A=2D4C79CB1496E7EC94BD248DFFFFFFFF&E=204a&W=1
+.live.com	TRUE	/	TRUE	1793554206	MSPAuth	Disabled
+.live.com	TRUE	/	TRUE	1793554206	MSPProf	Disabled
+.live.com	TRUE	/	TRUE	1791443147	NAP	V=1.9&E=1ff0&C=AiGjFoQRv3-htf2wghMhce6_Pd4oCQ0ivhz8J9mqUn0l3hoG05sruw&W=1
+.live.com	TRUE	/	TRUE	1793554206	WLSSC	EgA4AgMAAAAMgAAAwQABf0OvKhAts3ArhontCorph3S34y+9+gCH4+p9ZJ0n+3eyDfTy7Q/N4keJB9TgdIArhontCorpRgdmeeo3PdqJZA1Aajq83b0A0KiYCZqNvrAOPM/6HGCHXuQeqk9cDFsspytueD1lKjaEgjDjYAFlV40cQpDNuArhontCorpWEXO7YjcVSREfOQJJEegRvtbqSEeDD1yzRaMTbxoiJqpa9p8O4kP3zFDW792/t0rOVNnDtpDKGi/u3l2feKCG/1IFyQ0UInhFTJd3G4RxArhontCorpDqnx9rj3T9qfBiu6uHUKiCACcBgQAnAQAAAwA3OTQUHin6aQu0mWkQJwAAChOgABgbAHNvYXJlc3dlbGJlcnR5QG91dGxvb2suY29tAGMAACdzb2FyZXN3ZWxiZXJ0eSVvdXRsb29rLmNvbUBwYXNzcG9ydC5jb20AAAp5VVMAAAAAKxgEFgIAAI0wVVAABkMACFdlbGJlcnR5AAZTb2FyZXMAAAAAAAAAAAAAAAAAAAACAAAhCNaaWywETAAAHin6aQTQcGoAAAAAAAAAAAAAAAAPADEzMS4yNTUuMTAzLjk0AAUBAAAAAAAAAAAAAAAAEAQAAAAAAAAAAACArhontCorpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8/IwAua/yGAQAAAAMAAAAAAA==
+.live.com	TRUE	/	TRUE	1799360512	PPLState	1
+.login.microsoftonline.com	TRUE	/	TRUE	1794836325	brcap	0
+login.live.com	FALSE	/	TRUE	1799360512	__Host-MSAAUTHP	11-M.C516_SN1.0.U.MsaArtifacts.Cm0TGNTL6bnrQx*Z*of1cSUDrDJizG4h9kvPnKY6xp6f7W0qXI8T59Na*27qRFwiPPOxWe6OpHuylvqkQrrLUtMShap1ulditCfBEariKGGErxR3D3scpa0vzhBKoVM*ndbbaiSwnH4B4TYOZk*Xao28NEWDRRI*KWps6359GVg!H7aEl8XCJiPFyUKiYplbdNHFYBAjLCaZwQbmSWpM3fX5Vira9aXZRgXkh69llYNJoEubgkQvEsDAPfhl*9d0GNOqHpgBoMjiTnqhux0KMaQLM!OcEfYSTsZ71IBoAdMZ5GvYG3IzM1GE!PvnLrEWVZm3hSDUsGunowL6a1jogtvCH36eRcVuudf75MWzFhQ3
+login.microsoftonline.com	FALSE	/	TRUE	1791443147	fpc	AhYL4f5okL1CvnXaKX44sWk
+.microsoft.com	TRUE	/	TRUE	1791443147	MC1	GUID=69417336c2554808a508042b48faf211&HASH=6941&LV=202602&V=4&LU=1770855918090
+.microsoft.com	TRUE	/	TRUE	1791443147	MUID	038d177ef4ac402db92023b7bbdadda0
+.microsoft.com	TRUE	/	FALSE	1791443147	mbox	session#ec0520847b76402c8036fa816aa20e0c#1783557958|PC#ec0520847b76402c8036fa816aa20e0c.34_0#1786148098
+.microsoft.com	TRUE	/	TRUE	1791443147	MS0	6e308b9267514da68d1c2982688bf7b3
+outlook.live.com	FALSE	/	TRUE	1791443147	ClientId	7082ADC84A2D4DB598BD251A129D17A9
+outlook.live.com	FALSE	/mail/0/junkemail/id	FALSE	1789163617	MicrosoftApplicationsTelemetryDeviceId	4de942a4-5ec3-4570-b5d8-52b98323e203
+outlook.live.com	FALSE	/mail/0/junkemail/id	FALSE	1789163617	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-02-20T22:20:45.833Z
+outlook.live.com	FALSE	/mail/0/inbox/id	FALSE	1792360642	MicrosoftApplicationsTelemetryDeviceId	4de942a4-5ec3-4570-b5d8-52b98323e203
+outlook.live.com	FALSE	/mail/0/inbox/id	FALSE	1792360642	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-02-20T22:20:45.833Z
+outlook.live.com	FALSE	/mail/0	FALSE	1794756391	MicrosoftApplicationsTelemetryDeviceId	4de942a4-5ec3-4570-b5d8-52b98323e203
+outlook.live.com	FALSE	/mail/0	FALSE	1794756391	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-02-20T22:20:45.833Z
+outlook.live.com	FALSE	/mail/inbox/id	FALSE	1797001504	MicrosoftApplicationsTelemetryDeviceId	0861c1dd-3417-447e-8dd9-5c8c1e8f1e1c
+outlook.live.com	FALSE	/mail/inbox/id	FALSE	1797001504	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-05-20T13:39:51.809Z
+outlook.live.com	FALSE	/	TRUE	1791443147	DefaultAnchorMailbox	PUID:0003000014343937@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+outlook.live.com	FALSE	/	TRUE	1799369645	MSFPC	GUID=69417336c2554808a508042b48faf211&HASH=6941&LV=202602&V=4&LU=1770855918090
+outlook.live.com	FALSE	/	TRUE	1791443147	UC	3a4cd41a979243c08dbb839ffe70a220
+outlook.live.com	FALSE	/	TRUE	1791443147	msal.cache.encryption	%7B%22id%22%3A%22019f53d1-0e19-7296-ac74-3761d35df50d%22%2C%22key%22%3A%22t6rw1VPEoT9YGLr3v5m-6n896RgfWhgYGSlKTVW5ucc%22%7D
+outlook.live.com	FALSE	/mail	FALSE	1799369703	MicrosoftApplicationsTelemetryDeviceId	0861c1dd-3417-447e-8dd9-5c8c1e8f1e1c
+outlook.live.com	FALSE	/mail	FALSE	1799369703	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-05-20T13:39:51.809Z
+.login.live.com	TRUE	/	TRUE	1791443147	MSPPre	soareswelberty%40outlook.com%7c5b2c044c2108d69a%7c%7c
+.login.live.com	TRUE	/	TRUE	1793554206	MSPSoftVis	@72198325083833620@:@
+.login.live.com	TRUE	/	TRUE	1799108109	MSCC	164.163.142.155-BR
+.login.live.com	TRUE	/	TRUE	1799108109	SDIDC	CsIEw9sB1AVFdEdtsK6nUJTdMFloGTfQMX1vyyqInIwIjTWUMorkXjsAkSyaLDkur3cXk!JwEtBd1k9EBsrNMYFwB3cabToIE8KiDl1yAhe4Ig7XUdOoOf5LQiokmuTed*g9MtmxrTun*K1n334Dcwo$
+.login.live.com	TRUE	/	TRUE	1799360512	JSHP	3$soareswelberty%40outlook.com$Welberty$Soares$$2$0$0$7784243540313713054$0
+.login.live.com	TRUE	/	TRUE	1799360512	MSPCID	5b2c044c2108d69a
