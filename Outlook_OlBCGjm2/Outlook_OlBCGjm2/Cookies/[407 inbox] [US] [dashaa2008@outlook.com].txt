@@ -1,0 +1,77 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Name: 💖❤jessie❤ 💖
+– Email: dashaa2008@outlook.com
+– Inbox: 407 (386 unread)
+– Country: US
+– Cookies: russia34.com
+
+www.microsoft.com	TRUE	/en-us/microsoft-365/outlook	TRUE	1790451454	Cascade.AuthSSO	1
+www.microsoft.com	TRUE	/cascadeauth/account/signin-oidc	TRUE	1790451454	.AspNetCore.OpenIdConnect.Nonce.CfDJ8D3-29LeNclHm6awBmgkPjkq7AvG-54Z3zIEEPLGKJPOnAAhCr2N3XqBevXBqaCAE5LhSJa0W-LfzBgkHiy-4vkhy6XiXT3PE8xUADl-28PnB3_2tM_7-6d4yHoKsBvPyyXhnsKD0vqWNOlcBAGvvWhNA7E4t-P1vndf6Tb-2jQo6gUn7uH9n3szjWXviIWUlCLtuOofIchED0Cw7DLBTI_p7rWDM11H1NKbj8XgxKs7fAp2b1BhROHnNEdY6e7yOZzdz20JTR9_gzPbgS23asM	N
+www.microsoft.com	TRUE	/cascadeauth/account/signin-oidc	TRUE	1790451454	.AspNetCore.OpenIdConnect.Nonce.CfDJ8D3-29LeNclHm6awBmgkPjlpkaZmf5KZy-e0CHYjt-tmkYnX03eQUM6K-lxaUK0iarIKwocVcx1T_PdQgs1R5cwBHV30QivvgIwLA6cOMF_iUXyk2azUyFPKPjoLzumSNLRD-OC140NTlUBldska2fd_pqPqSk7tKC2Xczt-sZtuTDD2VonWmToSZe1MDhNN-g3R8WiD7ekJP6r0SIBS-TkCcJ-uxKz0yJ1WPwJd1N9gFUov20GT7phmswPIGbNfbSrgzx-c4qZyq9s27ShD7Ok	N
+www.microsoft.com	TRUE	/	TRUE	1816213062	MSFPC	GUID=fa46618449594cdba049392a9c8d9d5e&HASH=fa46&LV=202607&V=4&LU=1784673340635
+www.microsoft.com	TRUE	/	TRUE	1790451454	CAS_PROGRAM	echo
+www.microsoft.com	TRUE	/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/echo/etc.clientlibs/microsoft/clientlibs/exp-cookiecomp	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/echo/etc.clientlibs/cascade.component.authoring/dynamicclientsidelibs/handlerscripts	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/echo/etc.clientlibs/microsoft/components/content/mecontroloptions/v1/mecontroloptions/clientlibs	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/echo/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/echo/etc.clientlibs/microsoft/clientlibs/clientlib-mwf-new	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/echo/etc.clientlibs/cascade.component.authoring/clientlibs	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/echo/etc.clientlibs/microsoft/clientlibs	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/	TRUE	1817581448	MicrosoftApplicationsTelemetryDeviceId	45222c02-9d4f-425a-ba3d-02e903036ccd
+www.microsoft.com	TRUE	/msonecloudapi/assets	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/en-US/store/rds/v2	TRUE	1790451454	Cascade.AuthSSO	1
+www.microsoft.com	TRUE	/echo/etc.clientlibs/microsoft/components/structure/page/clientlibs	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/etc.clientlibs/microsoft/clientlibs/clientlib-thirdparty	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/cascadeauth/account/signin-oidc	TRUE	1790451454	.AspNetCore.OpenIdConnect.Nonce.CfDJ8D3-29LeNclHm6awBmgkPjkhr0WibKM7KFlTOSOde1pr4Boh47A8gigXe-2dfj5oJMyWnT4FRxhYi74k8wYvqF05yIYSlmUa28nmTYgf7vDxcNQFw7YX826JQzD00lX3J4pE9XIe0gt0O-BbKof_RMr-4RJiZjz8fFY7RaP5LyVzyn6NEWpvu0qVNbg2fhttU4N8rPP30uKXktH-9XOpiwUm8kHXUISZhCaeUDEKMUd5gKfKKN1xFEWgXl5mi6PMWiNILWuhqrbhy8e2VLWNyQQ	N
+www.microsoft.com	TRUE	/cascadeauth/account	TRUE	1790451454	bStore	Y
+www.microsoft.com	TRUE	/	TRUE	1790451454	ai_session	hyZOcBOXb/JHQ5QnTHdEl/|1786079457058|1786079457058
+login.microsoftonline.com	TRUE	/	TRUE	1790451454	buid	1.ATUAMe_N-B6jSkuT5F9XHpElWu9X-hCVSLJKhyyMNhPU9_sAAAA1AA.AQABGgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzAwAAAAAALgX2BdYfjTn1WYIf3d17TAIsc3Y_5vhdVEDQWl6NY-baXYsP37wznz-zhqgcRpTdr5wZbUSB_IzbyIo7NkhcKihheYXf4NeMvzkTVKSB7TUgAA
+login.microsoftonline.com	TRUE	/	TRUE	1791443147	buid	1.AWMBMe_N-B6jSkuT5F9XHpElWiC_mZE_oQdBhdwCEUeH70gAAABjAQ.AQABGgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzAwAAAAAAYQ-POIs-nIKl3GfueKSNz_efDvYkK9QJDE12KuNgvsbrXNTcnl9zXhFj3QI5Go_gnhp1oX9r9OmXck4bvYlh_hAknjonh3Ly-aSjVfJSamAgAA
+login.microsoftonline.com	TRUE	/	TRUE	1791443147	fpc	AlhxEiva8JxAkhEPcaVDvIA
+login.microsoftonline.com	TRUE	/	TRUE	1791443147	fpc	Aig5WvwamflLqSrGW4z-URj65_juAQAAAHtiB-IOAAAA
+.login.live.com	TRUE	/	FALSE	1818373075	MSCC	76.82.169.206-US
+.login.live.com	TRUE	/	FALSE	1819776144	MSPPre	dashaa2008%40outlook.com%7cc47f603fefb40b1e%7c%7c
+.login.live.com	TRUE	/	FALSE	1819776146	SDIDC	CosWh57kyCPutr8r2kA9ugbD6*YSz4scQOVSTn5q1352dOHwRDK33VXFGbUp1131OAjokIss2Dmmn0Pg!xubiKg0uZ0eNuAD8aVRBlK0w2i*V9gdOvdU7sW5KQKfBwCIDjq3zs*2P179Cqjd5okKfZDi!ksSVq5lJayOfPnoRnqu
+.login.live.com	TRUE	/	FALSE	1819776147	MSPCID	c47f603fefb40b1e
+.login.live.com	TRUE	/	FALSE	1819776147	JSHP	3$dashaa2008%40outlook.com$%f0%9f%92%96%e2%9d%a4jessie%e2%9d%a4$%f0%9f%92%96$bSuVgcCs$2$0$0$5443117711416431475$0:hvzwnwg729%40hotmail.com$almer$dunham$$2$0$0$18116688396360560867$0
+.login.live.com	TRUE	/	FALSE	1819776147	MSPSoftVis	@72198325083833620@:@
+.login.live.com	TRUE	/	FALSE	1819776151	MSCC	76.82.169.206-US
+.live.com	TRUE	/	FALSE	1818373149	MSPAuth	Disabled
+.live.com	TRUE	/	FALSE	1818373149	MSPProf	Disabled
+.live.com	TRUE	/	FALSE	1793342349	NAP	V=1.9&E=2087&C=jwu1xtv4twFagLULTBwT1nTmOl5nyJo3611AFPKmBti0dxmb17YFgQ&W=1
+.live.com	TRUE	/	FALSE	1801985949	ANON	A=FAAD940C4CA48E741E9A5A37FFFFFFFF&E=20e1&W=1
+.live.com	TRUE	/	FALSE	1818373149	WLSSC	EgAfAgMAAAAMgAAAxwABNAkE0ZsqjmkU39UgxCwMmLJGsNmnnE2LUxj+Wa5tgn/n1vRoSGNjegWYPWF+9/DdslT/puwf7mlGrbEFiSj7rYiTcLRQ7D+ZO4uMS6vI34yEyqXWGV4dVd/ctvIlnSqGZiUAe4uqyDGMScCy28rWggADQXXqdAC9tzON+JbxzbiIwUw6jEAWw/I2uGayz4BF9tYBATX1680m5Vqj6nN4yA6CJbGDWq+or0xclzcKCIESrC5joXxBvHqctI9pf3F2TN8TP+1pePfm8I0CLNKRRZ1KkV/0Upq0f6gbOMXIPAxZygRWidNm1/uCWEt34lg5illE2a9db9BTiau5gLkNFQ4BgQAOAQAABgBwnWBaHANgahkDYGoQJwAAChCggAgXAGh2endud2c3MjlAaG90bWFpbC5jb20ATwAAFmh2endud2c3MjlAaG90bWFpbC5jb20AAAAGVVMAAAAAAAAECQIAAIa5VUAABEMABWFsbWVyAAZkdW5oYW0AAAAAAAAAAAAAAAAAAAAAAABQDdTZ2kmmjwAAHANgahmq1moAAAAAAAAAAAAAAAAOADc2LjgyLjE2OS4yMDYABAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABxoa/vjMIMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA
+.live.com	TRUE	/	FALSE	1818373152	MUID	3F03EDFEF1C765780902FA63F02964E5
+.live.com	TRUE	/	FALSE	1819776147	PPLState	1
+login.live.com	TRUE	/	TRUE	1819776147	__Host-MSAAUTHP	11-M.C526_BL2.0.U.MsaArtifacts.CkEWVAU20utqRukY4kyYMbqqjjzlxc63Qfe1*YSJh3My7ZMA48mauIBQhkAOGuq1oIRsomNZ!d*uvAN86q8XY3ShtvPrhL!ulXIOvuxqUYYD5IelP1IChJpoMJq!swa8gJri4cRWT1GIs*orCCgUcXzUlhsryjtis!oC0bpVsL2uZ8!fSljo2PifKPY*j0CDFvQd7NPY*!Zj84ne4AXLXOisGp*fZ27s7KbuWXFI6PsW5cSqnRgnQXN178nAiqDAAMWji4!bqEY5IAvOKQWlDR1oi*oOHfFJwXCeb8iWiqlraIaawzQy7VlM3xkWZ!f6KQrzkzqGn1iNk*hYaYM2F6HBhM9zotISv*bxZtOggxLDXfhoOOiZR74GJHyJCLLHWc55M4V*WSwzufGHDy**R*JjX1Xnh71ISsAeQZQC18oZNDESevPwT4QV0Pn4N3kM8cQv1ff0WPOrDC2JCTlRPKCrwdICtAJe79gbNvQUgiokEzH4d9*35lDp0M38z8*6oX060d!vVOurH4pC*i2ekMs$
+.login.microsoftonline.com	TRUE	/	FALSE	1818373064	brcap	0
+.login.microsoftonline.com	TRUE	/	FALSE	1792453149	ESTSAUTHPERSISTENT	BQABFwQAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cxAAAAAAADzlRUgPcCsV2qYwQqZndCeF7-cu42FDkGs6j2KGbw4y0B3QdQxnnx7W9eR2KjnxFiB0_MZ9LiLdVaKeH1wLjyj5NUglwaY_FPMkZBF-J9ATb1ijdapY5Dz1LEMvgDR_wiu-XezqOJnaTq1OkgIm8RxsmaRXuqK5M007lOMZQE_OpIgqw0e3M1GZL_hMEBSdbO_tgaAKjwey6JIrch0QEu3erQYDozrcF7svLcHqoFDElA_eVfUrTBFVEqs7V5f3bQ9uGzenhuXbanMd3RAyGoZeZzBI3JcHpQyofrXbmaHOIRToTdAm6nil_hi4t3EHRgB9XS0VHVbgpeQ2SVntg3rnAkp6_lqfUivULTazbvTYs9a5A8JMtQk70bbqUQn0_UnBqYYWML20RCzNgigeIUFuzquNU-OGaqwqtpmZsrP2tXD1tjpoVWzjH1cM7TMikX7Y4JTLwQCUvH9w20mFZHPKYMQxgKuhg3FWAdFI49UpweKwzVDQqOERcOnLuu5fR6zx1_n373b_wcyjBzptTQLeD_slzHmYqkKadD7veuqE_WiKh0gRbnsyTnK56nt93borPfaT76E-wv37cnJWmUhUMdZZDOdaAYB_d4OtVHXpjyfR6GqksuPxvdfaGVzxZL8rbdtcBQ4gr-B5rmAprJWmHCV1CjdcwlNEWyQm3wgkJWN70fyEEKRZuc1cryVXfgg
+outlook.live.com	TRUE	/	TRUE	1816213063	ClientId	B3CBFB70F771444C891E0AA2E7DC1ADE
+outlook.live.com	TRUE	/	TRUE	1790451454	DefaultAnchorMailbox	PUID:000600005A609D70@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+outlook.live.com	TRUE	/	TRUE	1816213154	MSFPC	GUID=bc8f0d288d19466cbb803aa43ade582c&HASH=bc8f&LV=202607&V=4&LU=1784677151579
+.microsoft.com	TRUE	/	FALSE	1816209340	MC1	GUID=fa46618449594cdba049392a9c8d9d5e&HASH=fa46&LV=202607&V=4&LU=1784673340635
+.microsoft.com	TRUE	/	FALSE	1790451454	oc_db_data	%7B%22c%22%3A1%2C%22%2FcompanyProfile%2Fcompany_name%22%3A%22Curated%20Wealth%20Partners%2C%20LLC%22%2C%22%2FcompanyProfile%2Fweb_site%22%3A%22curatedwealthpartners.com%22%2C%22%2FcompanyProfile%2Fcompany_status%22%3A%22Operating%22%2C%22%2FcompanyProfile%2Fcompany_type%22%3A%22Private%22%2C%22%2FcompanyProfile%2Faudience%22%3A%22SMB%22%2C%22%2FcompanyProfile%2Faudience_segment%22%3A%22Financial%20Services%22%2C%22%2FcompanyProfile%2Findustry%22%3A%22Financial%20Services%22%2C%22%2FcompanyProfile%2Fsub_industry%22%3A%22Asset%20Management%22%2C%22%2FcompanyProfile%2Femployee_count%22%3A12%2C%22%2FcompanyProfile%2Fwatch_list%2Findustry%22%3A%22Financial%20Services%22%7D
+.microsoft.com	TRUE	/	FALSE	1818805061	kndctr_EA76ADE95776D2EC7F000101_AdobeOrg_identity	CiY3ODg0MjgyOTkwOTEzMTY5MDg5MzU0NTI3NjgyNzQxMTU0NzAxOFIQCKehq7j4MxgBKgNPUjIwA_ABp6GruPgz
+.microsoft.com	TRUE	/	FALSE	1818373061	MUID	0DA7435699056F1323EC54CB9D0569B7
+.microsoft.com	TRUE	/	FALSE	1790451454	kndctr_EA76ADE95776D2EC7F000101_AdobeOrg_cluster	or2
+.microsoft.com	TRUE	/	FALSE	1816213152	MC1	GUID=bc8f0d288d19466cbb803aa43ade582c&HASH=bc8f&LV=202607&V=4&LU=1784677151579
+.microsoft.com	TRUE	/	FALSE	1790451454	MS0	53777f136141423a87cfc5378d1dd7fe
+.microsoft.com	TRUE	/	FALSE	1790451454	MSCC	NR
+.microsoft.com	TRUE	/	FALSE	1790451454	mboxEdgeCluster	35
+.microsoft.com	TRUE	/	FALSE	1819741448	_uetvid	30d8d27091cf11f185f65f8567293367
+.microsoft.com	TRUE	/	FALSE	1820235448	AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg	1176715910%7CMCIDTS%7C20672%7CMCMID%7C78842829909131690893545276827411547018%7CMCAAMLH-1786650248%7C9%7CMCAAMB-1786650248%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1786052648s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.4.0%7CMCCIDH%7C-1980301930
+.microsoft.com	TRUE	/	FALSE	1820209450	_cs_c	0
+.microsoft.com	TRUE	/	FALSE	1791443147	mbox	PC#69d1ac3ba99243ed9caa8a4cdd3f5156.35_0#1788637449|session#fe49e35bbac246c296cf70b284897fdd#1786047312
+.microsoft.com	TRUE	/	FALSE	1820209450	_cs_id	e4d2bda4-fcf6-a55e-88af-e9482bf7d443.1786045450.2.1786079457.1786079457.1613561419.1820209450459.1.x
+.microsoft.com	TRUE	/	FALSE	1817615456	_clck	kadcvl%5E2%5Eg8e%5E1%5E2393
+.microsoft.com	TRUE	/	FALSE	1790451454	_uetsid	30d8af0091cf11f1bbb94540a7867022|vscu0y|2|g8e|0|2409
+.microsoft.com	TRUE	/	FALSE	1790451454	_cs_s	1.5.U.9.1786081257123
+.microsoft.com	TRUE	/	FALSE	1790451454	_cs_s_ctx	c%3AH4sIAAAAAAAACt3Pu07DMBiG4XvxkKmuc7YdKUIsILaqpex%2F7C%2FCwjlgu40ixL0zMHAPzK%2F0SO8XG12I6c1he3UTWFdI1eZS143MVXv4q9fgWcfeU1pjJ8S2bcfJmbDEZUxHs0wCM79eRExLgAg2inspnjEjkH%2B09vRyuRmDGB9WZ%2B5nfN5cgO2fyEdkaV%2FRr7Sv5LORJuf3Hht5j5Q526OihoZGctlaw%2BvBGK7KoeSVUsglaZlX9S9xov1EPkvLB%2BYerQaK2nIqiLiCarjRueaj1o20NBiMmh1YRIxumc8YEQLCvzv8%2FgGOWOU64AEAAA%3D%3D
+.microsoft.com	TRUE	/	FALSE	1790451454	MS0	0d014a41ea5449e8ae0cddd24c892952
+.microsoft.com	TRUE	/	FALSE	1790451454	ak_bmsc	9F31A75C666DBD1D5FB4CA9F95D1D360~000000000000000000000000000000~YAAQxt81F98VUM+fAQAAEQWr2gCHVXZ5NUpFbokI1Ggw2kR+g4Udw5bpXcpRuelAUWDRVvsd53fPjajmltfhx3xdoHG7zgI1O03dLoCNKo+pY71rypAxUmh/y7jnW7+9b8u0TfQykxhu6GsqgwTLxVvou000pZcjUYwBNpcmUqHV7yOKEesA0g2izZ5jiBJ6DQLEbr+ncHdQQf8nvcGqw7Z2fuq6/MlfYQmt+deLvbbnN+L+FddZ+8YxecDP61s4PZ5ZFmUzODYQkV7TL0MHObkqhlRO/RIX3J/ucMFpDB6PTtwrQwM+jYr1nzlFgezQxtSkvRHg3/q0/p2QdOVTSfLR9a/bdQl6sfstTY6b6iVA5V8iNEibereyDZjN2AYcT3oDVME=
+.microsoft.com	TRUE	/	FALSE	1817616166	display-culture	en-US
+.microsoft.com	TRUE	/	FALSE	1790451454	_clsk	15o60oi%5E1786080169558%5E3%5E0%5Ee.clarity.ms%2Fcollect
+.microsoft.com	TRUE	/	FALSE	1790451454	bm_sv	98C5716B81ABB7388AFF4205736C93C4~YAAQxt81FyFPUM+fAQAAy9ms2gD5ekAu6+VFrmVtSgmfS3lxRWssoekbRMnYEH+jk1m84K9YRwefYugHT6cg3E/zmHsbWRZcOzLfwVTZsyeN5xL912+kZaRV/5NzrywDunGbVfV/+nipf+P3DQc8BJvoNZtBFlEA+Dj7gdepa+N9icvhZKXS+W6wLGjUvguklbncQRFHpfD66SXu5ikxSetitvhBw85amxfQ6qhcVvskkZtnQEZGQVYb+dCqA9u16QkizQ==~1
