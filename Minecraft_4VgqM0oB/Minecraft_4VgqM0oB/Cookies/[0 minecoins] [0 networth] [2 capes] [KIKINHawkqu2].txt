@@ -1,0 +1,28 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– ID: 6b136408b51743158916cb1db2eee399
+– Username: KIKINHawkqu2
+– Xbox: xCion04
+– Skins: 1
+– Capes: 2 (Pan, Common)
+– Purchases: 4 (minecraft_bedrock, minecraft, dungeons, legends)
+– Minecoins: 0
+– Hypixel skyblock networth: 0
+– Cookies: russia34link.com
+
+outlook.live.com	TRUE	/	TRUE	1791631680	ClientId	58A785369CC646209A9CA93CEFCC98AB
+.live.com	TRUE	/	FALSE	1791631680	MUID	4394834fe89b40488b9cbefe7423bbde
+.live.com	TRUE	/	FALSE	1791631680	PPLState	1
+login.microsoftonline.com	TRUE	/	TRUE	1791631680	buid	1.ATAAMe_N-B6jSkuT5F9XHpElWhkrJ-4RRD9DjyhcE8tv1AcAAAAwAA.AQABGgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzAwAAAAAAiWKbBkWbHSHZJgMXVbOmRN6go3pc4qB24wWn8lUvoe63vS5krlVbFIpmcRLDPY_EHYmua8_romQRWbmMC2_PRiPMGuMMM4fXaFQIyS76NTEgAA
+login.microsoftonline.com	TRUE	/	TRUE	1791631680	fpc	AtVT89LGnHRJsXvDBtcg--WlUefTAQAAAPQdCOIOAAAA2UShoAMAAAAMHgjiDgAAAA
+.login.live.com	TRUE	/	FALSE	1791631680	MSPPre	leviwirth07%40gmail.com%7c74c4f513190d1c54%7c%7c
+.login.live.com	TRUE	/	FALSE	1791631680	JSHP	3$leviwirth07%40gmail.com$Levi$Wirth$3ba2Ccbe$2$0$0$2107799664271976453$0
+.login.live.com	TRUE	/	FALSE	1791631680	MSCC	92.208.30.231-DE
+.login.live.com	TRUE	/	FALSE	1791631680	MSPCID	74c4f513190d1c54
+.microsoft.com	TRUE	/	FALSE	1791631680	MC1	GUID=ed2c5687d21f438aacde85c875f47296&HASH=ed2c&LV=202608&V=4&LU=1786128112066
+www.microsoft.com	TRUE	/	TRUE	1791631680	MSFPC	GUID=ed2c5687d21f438aacde85c875f47296&HASH=ed2c&LV=202608&V=4&LU=1786128112066
+www.microsoft.com	TRUE	/	TRUE	1791631680	MicrosoftApplicationsTelemetryDeviceId	7b10a7ed-151a-4c2b-9847-0a689aa2e1b4
+www.microsoft.com	TRUE	/de-de/microsoft-365/outlook	TRUE	1791631680	PMGSKUMarketCk	de
+login.live.com	TRUE	/	TRUE	1791631680	__Host-MSAAUTHP	11-M.C536_BAY.0.U.MsaArtifacts.Ck*GG9k4ZPYDrenDizCjkx2bPQoZPsmSUl3rxa2e3G4FIB7EK1LB*SQVNNKwb3xFFA0V0A5vHyyYMVHvvB6RsweH6h1t88vVxniYR9nKsNnpzDZ3EIqxxxDFWeuC33WYVAjHJXbf9owne4JG92qgG8oSfeCa6mE6KIkw3UACpHMaXqz**bdLtE3Az!UdnnC4KEh*Np3c8BqAF8j8YtXNVm2Gpd4S39xFkPoyGl2Vw5vZzmw3iIiwsu6sYwnoBndhrtb0ZliVinkFGg2BJuT9ApxiEOnR!yHJx*BWYkAyc0utofgdrvyNOR2bposHhSdyNTFyIlk0lEHDCRkcA!Uy4kZeArTWpeRwRDh8jY2!oWF3
+.login.microsoftonline.com	TRUE	/	FALSE	1791631680	brcap	0
