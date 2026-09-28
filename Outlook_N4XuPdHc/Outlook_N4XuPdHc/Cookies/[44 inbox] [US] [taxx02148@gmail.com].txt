@@ -1,0 +1,44 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Name: tax x
+– Email: taxx02148@gmail.com
+– Inbox: 44 (6 unread)
+– Country: US
+– Cookies: @logslead
+
+www.microsoft.com	FALSE	/	TRUE	1817152949	MicrosoftApplicationsTelemetryDeviceId	bcaec02a-7b23-4fad-88e1-52af9704983c
+www.microsoft.com	FALSE	/	TRUE	1789065735	ai_session	FMhIyeoaWdTZF7dlHgUnlT|1785616949630|1785616949630
+www.microsoft.com	FALSE	/cascadeauth/account/signin-oidc	TRUE	1789065735	.AspNetCore.Correlation.UWR12FZnMHs2v2fr1skmdfto1LVwjJuPxxzFVYIaA5Y	N
+www.microsoft.com	FALSE	/cascadeauth/account/signin-oidc	TRUE	1789065735	.AspNetCore.OpenIdConnect.Nonce.CfDJ8D3-29LeNclHm6awBmgkPjm1U8PQ_8_hQn1DgnFMS_WJOHAM9uGn9fWLra1PjtwSEf7rKbcoROplB7TytSCS3GQ5bhkyCrAyXXmMqJpvCcVs6KbH2Qwax9VdFcGeOzsZ6RJKYodMx68jw_1bY_CjSeSmfA2tZP0geVyVBD2IqZhB0n8gmDS7egfdv5IYhJ8qgV09sdCycX4IAKMu8S7OCIKmRevK5n0kmES_H-bfKo8yFgt7l3b_gFBBdmB6WBvgjcBKReEUDdhslK4MDoU15PQ	N
+www.microsoft.com	FALSE	/en-us/microsoft-365/outlook	FALSE	1789065735	Cascade.AuthSSO	1
+login.microsoftonline.com	FALSE	/	TRUE	1791387045	buid	1.AQMAMe_N-B6jSkuT5F9XHpElWu9X-hCVSLJKhyyMNhPU9_sAAAADAA.AQABGgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzAwAAAAAA_fyRgFKoMY7Smg7s_3cgNCldhw6Myde0kAPUsogNZGPxtqBQDrOTO7sDpBqyL9GezSFKgBbNI4WO9d0ZzX1PEGpsOQfABUPjO3tzJQNrwVQgAA
+login.microsoftonline.com	FALSE	/	TRUE	1791387045	fpc	AlvXZvO5DpBAjGUVJIYSV4KlUefTAQAAADxRAOIOAAAA2UShoAEAAAA9UQDiDgAAAA
+.login.microsoftonline.com	TRUE	/	TRUE	1819312959	brcap	0
+.login.live.com	TRUE	/	TRUE	1819313015	MSCC	35.147.145.75-US
+.login.live.com	TRUE	/	TRUE	1819313045	JSHP	3$welovelife22%40outlook.com$tax$x$03TUXO87$2$0$0$2051837442590435162$0
+.login.live.com	TRUE	/	TRUE	1819313045	MSPCID	924ce348083efdfc
+.login.live.com	TRUE	/	TRUE	1819313044	MSPPre	welovelife22%40outlook.com%7c924ce348083efdfc%7c%7c
+.login.live.com	TRUE	/	TRUE	1819313044	SDIDC	Crp0uof3hppzozzWNwzwkTPOy3YJZLmuqhyNYILc9ldrGJ5*SzNdIM2rE9!vTz4IDdXfHB4GVtIAWJ0CFMHe*WlkUW6Hao*ptpVXXB*27N0e8s*pOdfdj3BG2XpLl3ZdhSPPVMLNaNJIz9tXaWyv5cE$
+.live.com	TRUE	/	TRUE	1802925843	ANON	A=FA05E3319DC264E5491C18C9FFFFFFFF&E=20ec&W=1
+.live.com	TRUE	/	TRUE	1819313044	MSPAuth	Disabled
+.live.com	TRUE	/	TRUE	1819313044	MSPProf	Disabled
+.live.com	TRUE	/	TRUE	1794285843	NAP	V=1.9&E=2092&C=LFhv4wNwQb67Jj_EoWNDz8boV9DPbhSV-qzVl-GZqt7zBQBOfNa_NQ&W=1
+.live.com	TRUE	/	TRUE	1819313045	PPLState	1
+.live.com	TRUE	/	TRUE	1819313044	WLSSC	EgAfAgMAAAAMgAAAyAABIMkCULFdSGwlMxVhlc/i2pv7E/3ZqphGLtv6tT6leyAaom+UdQ3ArhontCorpsiWk+/gk4MdQt0RR5DB7nmiB/uZSzhNdEVFOZhQJMBBp2p3nFiQRSRCAOfbuk3cOHFLoLlGBg3JnzJagkxTs4YerynH/GH/FZszIKEACcArhontCorpMu3UBxZRiRi1e/kmixUUyJBIaqofzzE4HoEDJDjGbF7ysRRSM189MNVulh/582VI7evpmkzZ06JQTQseftrpSRuU/ArhontCorpijMTNE611w/ZoJir5a6Xtfp5zfxnokKPNINbujAQ4BgQAOAQEAAwDbyLGuklpuapFabmoQJwAAChCggAgUAHRheHgwMjE0OEBnbWFpbC5jb20AUgAAIHRheHgwMjE0OCVnbWFpbC5jb21AcGFzc3BvcnQuY29tAAAABFVTAAAAAAAABAkCAACNiVVAIAZBAAN0YXgAAXgAAAAAAAAAAAAAAAAAAAAAAAAIPv38kkzjSAAAklpuapEB5WoAAAAAAAAAAAAAAAAOADM1LjE0Ny4xNDUuNzUABAMAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAEiXeRxa53JuAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA
+.live.com	TRUE	/	TRUE	1819313049	MUID	11CA11C31F0A61ED144E066B1E626035
+login.live.com	FALSE	/	TRUE	1819313045	__Host-MSAAUTHP	11-M.C555_BAY.0.U.MsaArtifacts.Cra4Ytw8qQgzFgwBmgLPCZ7lTV9nTg1n2a*ZvJaXuiWthcHZJJXKKge5PWtF3vkqVAjKFfq1yjbH50aZBIjXDLtsYQT!Moh4MoS9zLIIIRuwZTpexOV*p!wO2iYWnH6lss8ITxVE7*a*J3OPUC2oZz3Vd1UdqaYh*Lq69WpFYhQ8NR2FxPlIcOns20d6BgWGZfToSIuSG4Y!dYcA*N97aTS0CScof91tynpCkaDrG4DJH3T61TcoPCqeewf0rDHSx3PYC0cw9OG51wX07McUc53jaM2Yoqv4GRW5VZ5oIc*cvEaMoT7xkyf*J3od6Hnp2IOhNFBywXsLUphzrQwnS8s$
+outlook.live.com	FALSE	/	TRUE	1817152946	ClientId	9B434CF3B33144F996ED81AD5FCB075E
+outlook.live.com	FALSE	/	TRUE	1817153050	MSFPC	GUID=6aabd98639fd4adb856a72c007b2c317&HASH=6aab&LV=202608&V=4&LU=1785616947522
+outlook.live.com	FALSE	/mail	FALSE	1817153169	MicrosoftApplicationsTelemetryDeviceId	a6096ba0-613b-41e7-9b38-c4adb83597d5
+outlook.live.com	FALSE	/mail	FALSE	1817153169	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-08-01T20:46:09.932Z
+outlook.live.com	FALSE	/	TRUE	1789065735	DefaultAnchorMailbox	PUID:00030001AEB1C8DB@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+.microsoft.com	TRUE	/	TRUE	1817152948	MC1	GUID=6aabd98639fd4adb856a72c007b2c317&HASH=6aab&LV=202608&V=4&LU=1785616947522
+.microsoft.com	TRUE	/	TRUE	1789065735	MS0	ba89d1cdfd03467fa42ae270f8cb8d96
+.microsoft.com	TRUE	/	TRUE	1789065735	MSCC	NR
+.microsoft.com	TRUE	/	TRUE	1789065735	oc_db_data	%7B%22c%22%3A1%2C%22%2FcompanyProfile%2Fcompany_name%22%3A%22Six%20Flags%20Entertainment%20Corp%22%2C%22%2FcompanyProfile%2Fweb_site%22%3A%22sixflags.com%22%2C%22%2FcompanyProfile%2Fcompany_status%22%3A%22Operating%22%2C%22%2FcompanyProfile%2Fcompany_type%22%3A%22Public%22%2C%22%2FcompanyProfile%2Faudience%22%3A%22Enterprise%20Business%22%2C%22%2FcompanyProfile%2Faudience_segment%22%3A%22Hospitality%20%26%20Travel%22%2C%22%2FcompanyProfile%2Findustry%22%3A%22Leisure%2C%20Sports%20and%20Recreation%22%2C%22%2FcompanyProfile%2Fsub_industry%22%3A%22Hotels%20and%20Motels%22%2C%22%2FcompanyProfile%2Femployee_count%22%3A4225%2C%22%2FcompanyProfile%2Fwatch_list%2FTPID%22%3A16277976%2C%22%2FcompanyProfile%2Fwatch_list%2Findustry%22%3A%22Leisure%2C%20Sports%20and%20Recreation%22%7D
+.microsoft.com	TRUE	/	TRUE	1819312956	AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg	MCMID|47116269812119409110342175827769075255
+.microsoft.com	TRUE	/	FALSE	1817152956	_clck	ldx0b1%5E2%5Eg88%5E1%5E2404
+.microsoft.com	TRUE	/	FALSE	1789065735	_clsk	9txpi2%5E1785616957586%5E1%5E0%5Ez.clarity.ms%2Fcollect
+.microsoft.com	TRUE	/	TRUE	1789065735	kndctr_EA76ADE95776D2EC7F000101_AdobeOrg_cluster	or2
+.microsoft.com	TRUE	/	TRUE	1819744956	kndctr_EA76ADE95776D2EC7F000101_AdobeOrg_identity	CiY0NzExNjI2OTgxMjExOTQwOTExMDM0MjE3NTgyNzc2OTA3NTI1NVIQCND0wfj7MxgBKgNPUjIwAfAB0PTB-Psz
