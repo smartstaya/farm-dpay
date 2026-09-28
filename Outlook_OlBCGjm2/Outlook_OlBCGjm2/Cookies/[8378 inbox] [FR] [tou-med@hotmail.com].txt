@@ -1,0 +1,43 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– Name: Med TOU
+– Email: tou-med@hotmail.com
+– Inbox: 8378 (4126 unread)
+– Country: FR
+– Cookies: russia34link.com
+
+outlook.live.com	FALSE	/	TRUE	1790238371	ClientId	F86A398015B54F76B8D030DF552C1449
+outlook.live.com	FALSE	/mail/0/deeplink	FALSE	1791009810	MicrosoftApplicationsTelemetryDeviceId	03330465-47fc-4f70-8d9e-471a6fa39a60
+outlook.live.com	FALSE	/mail/0/deeplink	FALSE	1791009810	MicrosoftApplicationsTelemetryFirstLaunchTime	2025-10-01T07:56:40.718Z
+outlook.live.com	FALSE	/mail/0/id	FALSE	1791279756	MicrosoftApplicationsTelemetryDeviceId	03330465-47fc-4f70-8d9e-471a6fa39a60
+outlook.live.com	FALSE	/mail/0/id	FALSE	1791279756	MicrosoftApplicationsTelemetryFirstLaunchTime	2025-10-01T07:56:40.718Z
+outlook.live.com	FALSE	/mail/0/inbox/id	FALSE	1796194167	MicrosoftApplicationsTelemetryDeviceId	03330465-47fc-4f70-8d9e-471a6fa39a60
+outlook.live.com	FALSE	/mail/0/inbox/id	FALSE	1796194167	MicrosoftApplicationsTelemetryFirstLaunchTime	2025-10-01T07:56:40.718Z
+outlook.live.com	FALSE	/mail/0	FALSE	1813947678	MicrosoftApplicationsTelemetryDeviceId	03330465-47fc-4f70-8d9e-471a6fa39a60
+outlook.live.com	FALSE	/mail/0	FALSE	1813947678	MicrosoftApplicationsTelemetryFirstLaunchTime	2025-10-01T07:56:40.718Z
+outlook.live.com	FALSE	/	TRUE	1814289861	MSFPC	GUID=694eee0ad98349d39c0883ebb88cc4bc&HASH=694e&LV=202509&V=4&LU=1758702370233
+outlook.live.com	FALSE	/mail	FALSE	1814290107	MicrosoftApplicationsTelemetryDeviceId	27c3bf82-d1c2-4fad-a9f4-cf509d74ae5f
+outlook.live.com	FALSE	/mail	FALSE	1814290107	MicrosoftApplicationsTelemetryFirstLaunchTime	2026-06-29T17:28:27.794Z
+outlook.live.com	FALSE	/	TRUE	1791443147	DefaultAnchorMailbox	PUID:00064000E03DBD45@84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+.microsoft.com	TRUE	/	TRUE	1790238372	MC1	GUID=694eee0ad98349d39c0883ebb88cc4bc&HASH=694e&LV=202509&V=4&LU=1758702370233
+login.live.com	FALSE	/	TRUE	1790841313	MSFPC	GUID=694eee0ad98349d39c0883ebb88cc4bc&HASH=694e&LV=202509&V=4&LU=1758702370233
+login.live.com	FALSE	/	TRUE	1816494132	__Host-MSAAUTHP	11-M.C519_BAY.0.U.MsaArtifacts.CtIlx91m3UnxcdaGnI*wGavJIGJyWCNSkcL4F3gJxlAlFArNX8ZeuyShsPoNUgRJ7aE3DBYQdwuBiAM72dLYl6U9VvPPn62hrcEsIAYRZt9eh6oHJcrjwu05UewHWE!AV4DuR7hVdX2*82RCtbF9zNoPhYj!vBKij2LptoEGVYPFlJBH!fZMzAOf3e2UYUbvLSnJO6iGWkopeBHP!PZlMouv9slU2UchytAsf9Oz8KujIc9lGaeCZDIRibHLcf!kbtNQqbXHM8o1NdRR2vY8A6FKHeI85AmeoQkEk77HY8nIXl0trC2QJ5unchIkD253ZA$$
+login.microsoftonline.com	FALSE	/	TRUE	1790841305	MSFPC	GUID=694eee0ad98349d39c0883ebb88cc4bc&HASH=694e&LV=202509&V=4&LU=1758702370233
+login.microsoftonline.com	FALSE	/	TRUE	1795075903	MicrosoftApplicationsTelemetryDeviceId	e9a80dc4-98f6-4991-9c5d-795a5f333eee
+login.microsoftonline.com	FALSE	/	TRUE	1791443147	fpc	Ak1od5OEuQpEsQhBS3ssGlY
+.live.com	TRUE	/	TRUE	1794441603	mkt	fr-FR
+.live.com	TRUE	/	TRUE	1797834124	MUID	15B8C56A586C657738B9D31259496408
+.live.com	TRUE	/	TRUE	1799720390	ANON	A=FA314537020AE81E3A110A4BFFFFFFFF&E=20c7&W=1
+.live.com	TRUE	/	TRUE	1816107590	MSPAuth	Disabled
+.live.com	TRUE	/	TRUE	1816107590	MSPProf	Disabled
+.live.com	TRUE	/	TRUE	1791076790	NAP	V=1.9&E=206d&C=0y2i7z9OAFWx0b-MyPMH9WfO4ulsLWuCUEzIQERP_EUEVHP_KOBYNA&W=1
+.live.com	TRUE	/	TRUE	1816107590	WLSSC	EgAaAgMAAAAMgAAAxQAB5VkhboFxeCu69lRMyOfZcLaBhWkW6zCDTs+sI2A+ceoHtD0yFu6ehzaXwK2Kl9R8qeNpiAmeNLzb9NdxnIIVhW+yemP/h1jGgmwOaXkqwGRBPQH7Xdgg6dqOeQSUaVPJzBC74bZGvhFOUOc0i4bggj9KhEs9yDc24SLX8qERIZMia4Fx4TWtCXwxe3wqmzMxlO+Gv1o/zM+NOYVZP5cp8dND6WIWZJ8D4jGW+251s3tt5s19kYBq2utxviKfeg6VRJrnVFRE47gTe2Yvb4gBCnaOsxv1v+z1RBm72YXJF/vSi7svo8quItq7z/XbD/ZshZ0XbPMyxCMNa1030fLRawkBgQAJAQBABgBFvT3gQnE9ajlxPWoQJwAAChGggAAUAHRvdS1tZWRAaG90bWFpbC5jb20ATAAAE3RvdS1tZWRAaG90bWFpbC5jb20AAAKsRlIABTYzMDAwAAAAAAwMAgAAgJFtQAAEQwADTWVkAANUT1UFCgAAAAAAAAAAAAAAAAABAABpAgZx12Ae2AAAQnE9ajkYtGoAAAAAAAAAAAAAAAAPADg4LjE5MC4yNDAuMTYwAAUDAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAADPGDYfnGcfggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMBAAAAAA==
+.live.com	TRUE	/	TRUE	1816494132	PPLState	1
+.login.live.com	TRUE	/	TRUE	1797061589	IgnoreCAW	1
+.login.live.com	TRUE	/	TRUE	1816107559	MSCC	88.190.240.160-FR
+.login.live.com	TRUE	/	TRUE	1816107590	SDIDC	Ckm2LS0eEWTeja5z1sVWSb1OgTvM6Mp0XITHMpdUKLfARyb8a29vCEV4umcBLIhQgMUDok35wxrgRAthzk8vUMuvFAb4pf8mD6HYPBfaldEeKwqEBtG2ljiSDGf2gnDOXQ$$
+.login.live.com	TRUE	/	TRUE	1816449854	MSPPre	tou-med%40hotmail.com%7cd7601ed869020671%7c%7c
+.login.live.com	TRUE	/	TRUE	1816494132	JSHP	3$tou-med%40hotmail.com$Med$TOU$$2$0$1$2249012343438534556$1
+.login.live.com	TRUE	/	TRUE	1816494132	MSPCID	d7601ed869020671
+.login.microsoftonline.com	TRUE	/	TRUE	1797235902	brcap	0
