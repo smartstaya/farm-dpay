@@ -1,0 +1,28 @@
+Valid Cookie / Every day!
+https://russia34.com
+
+– ID: 811715081c414584854e119001bee255
+– Username: Jammy136
+– Xbox: Jjaammmmyy
+– Skins: 1
+– Capes: 2 (Pan, Common)
+– Purchases: 2 (minecraft_bedrock, minecraft)
+– Minecoins: 50
+– Hypixel skyblock networth: 0
+– Cookies: russia34.com
+
+www.microsoft.com	FALSE	/edge/update	FALSE	1791475683	bStore	Y
+.microsoft.com	TRUE	/	FALSE	1816055303	MUIDB	013BC7B2A54B6318347CD031A49E6215
+.microsoft.com	TRUE	/	FALSE	1816055303	_EDGE_V	1
+.microsoft.com	TRUE	/	TRUE	1816055303	MUID	013BC7B2A54B6318347CD031A49E6215
+.microsoft.com	TRUE	/	TRUE	1815706228	MC1	GUID=78296cbdb668401eafa9fc15b772182c&HASH=7829&LV=202607&V=4&LU=1784170222085
+.login.live.com	TRUE	/	TRUE	1816055325	SDIDC	CloYd0xMuKsFW8VHJWTy6*jL7thc7ziNgao54c19kocQbcvGAWGP62iVki5q6mYMc6xW8H6wPUFWepDSKZvO28Pfe2qPVBE5jOgm3zY1cJ7umh3*PlOlKLz6yVNnLFdodbLETpuAdvaS803dHtYo834$
+.login.live.com	TRUE	/	TRUE	1817866228	JSHP	3$jammyx136%40gmail.com$jam$my$$2$0$0$4731193817923383925$1
+.login.live.com	TRUE	/	TRUE	1817866228	MSPCID	8b0c6cac80424b01
+.login.live.com	TRUE	/	TRUE	1817866228	MSPPre	jammyx136%40gmail.com%7c8b0c6cac80424b01%7c%7c
+.login.live.com	TRUE	/	TRUE	1817866235	MSCC	23.17.219.88-CA
+.live.com	TRUE	/	TRUE	1813881601	mkt	en-US
+.live.com	TRUE	/	TRUE	1817866228	PPLState	1
+login.microsoftonline.com	FALSE	/	TRUE	1791475683	buid	1.AXYAMe_N-B6jSkuT5F9XHpElWhkrJ-4RRD9DjyhcE8tv1AcAAAB2AA.AQABGgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzAwAAAAAAQtNT0Q0NrCx4tiRnE4NAhXNLAMnkkEG-BiSYilYZXCEsj0EEZ5Fw7ozlSyxazzaTwv0aXEeT2Lm9WqM1kBXYxuyGNoebaZSWErvlf-TLrBwgAA
+login.microsoftonline.com	FALSE	/	TRUE	1791475683	fpc	Ammr-L6mjxZGiw0jHyLbR2xqwEtIAQAAAOw96uEOAAAA
+login.live.com	FALSE	/	TRUE	1817866228	__Host-MSAAUTHP	11-M.C502_BL2.0.U.MsaArtifacts.CrzxskcTGT4Y4UMtWrmmwWT9ZTzIEKQhlq3yhM!wDBkz7AtGl!vjFyURoW!F7DFIl4NOak5BIULrB5*25DVWA7jBtuPjTDCsqQbyadcNSqlSl245ItlMYfzPsIl7nI0WivSioHnYi7sCeJdifQcPRyATNkiVBOGpSKGBbL2Ljd5kbU5TagX0aJpkpWhQbQctqOSJUhzrEsn9O5I02qrsdT57Et26QyJ4qk!6A2SPWuPFsYWBS9u7zsMQVRfwd7LzquZ6zDarXWwInAmN!icdUS!S9zmbJdqeDPI2cF7x6JmiVuEEX3HVc2Mybq0fhEyARxIWz9bvnVxAgQVVqj5xE!czSPNzThzBWXZ83daLHS!e
